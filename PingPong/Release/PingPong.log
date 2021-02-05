@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\mathe\Desktop\PingPong\PingPong\Main.cpp(83): warning C4715: 'Test_Ball_Wall': not all control paths return a value
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PingPong.vcxproj -> C:\Users\mathe\Desktop\PingPong\Release\PingPong.exe
